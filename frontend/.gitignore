@@ -16,7 +16,7 @@ dist/
 
 # Cache
 .cache/
-public/
+
 *.cache
 
 # Environment variables
