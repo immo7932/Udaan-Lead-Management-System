@@ -13,7 +13,7 @@ const ContactDetail = () => {
     useEffect(() => {
         const fetchContact = async () => {
             try {
-                const res = await axios.get(`http://localhost:5000/api/contacts/${id}`);
+                const res = await axios.get(`https://udaan-lead-management-system.onrender.com/api/contacts/${id}`);
                 setContact(res.data);
                 setLoading(false);
             } catch (err) {
@@ -29,7 +29,7 @@ const ContactDetail = () => {
     const handleDelete = async () => {
         if (window.confirm('Are you sure you want to delete this contact?')) {
             try {
-                await axios.delete(`http://localhost:5000/api/contacts/${id}`);
+                await axios.delete(`https://udaan-lead-management-system.onrender.com/api/contacts/${id}`);
                 navigate(-1);
             } catch (err) {
                 console.error(err);
