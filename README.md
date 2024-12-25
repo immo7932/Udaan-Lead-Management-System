@@ -4,7 +4,11 @@
 Udaan Lead Management System is a comprehensive platform designed to streamline the management of leads, interactions, and performance metrics for key account managers (KAMs). It includes features for task planning, performance tracking, user authentication, and detailed reporting, making it a robust solution for sales teams.
 
 ---
+## Live Demo
+Access the live versions of the frontend and backend applications through the links below:
 
+- **Frontend Application**: [https://udaan-lead-management-system-ed5g.vercel.app/login](https://udaan-lead-management-system-ed5g.vercel.app/login)
+---
 ## System Requirements
 ### Backend
 - **Node.js**: v16 or later
