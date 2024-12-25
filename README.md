@@ -61,7 +61,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/udaan-lead-management.git](https://github.com/immo7932/Udaan-Lead-Management-System)
+git clone [https://github.com/immo7932/Udaan-Lead-Management-System](https://github.com/immo7932/Udaan-Lead-Management-System)
 cd udaan-lead-management
 ```
 
