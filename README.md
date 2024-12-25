@@ -295,12 +295,11 @@ http://localhost:5000/api
           "details": "Discussed new menu items",
           "status": "Completed"
         },
-        // More interactions...
       ],
       "grouped": {
-        "calls": [/* Call interactions */],
-        "emails": [/* Email interactions */],
-        "orders": [/* Order interactions */]
+        "calls": ,
+        "emails": ,
+        "orders": 
       },
       "summary": {
         "totalInteractions": 15,
@@ -368,7 +367,7 @@ http://localhost:5000/api
         "status": "Completed",
         "time": "14:30"
       },
-      // More interactions...
+      
     ]
     ```
 
@@ -451,7 +450,7 @@ http://localhost:5000/api
         "createdAt": "2024-04-25T10:00:00.000Z",
         "updatedAt": "2024-04-25T10:00:00.000Z"
       },
-      // More restaurants...
+      
     ]
     ```
 
@@ -568,7 +567,7 @@ curl -X GET http://localhost:5000/api/calls/today \
       "details": "Discussed new menu items",
       "status": "Completed"
     }
-    // More interactions...
+    
   ],
   "grouped": {
     "calls": [/* Call interactions */],
@@ -630,7 +629,7 @@ curl -X GET http://localhost:5000/api/restaurants/restaurant_id/interactions \
     "status": "Completed",
     "time": "14:30"
   }
-  // More interactions...
+  
 ]
 ```
 
@@ -711,6 +710,4 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 
 ## Contact
 
-For any inquiries or feedback, please contact [john@example.com](ialam7932@gmail.com).
-
-```
+For any inquiries or feedback, please contact [ialam7932@gmail.com).](ialam7932@gmail.com).
