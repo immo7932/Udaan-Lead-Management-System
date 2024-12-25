@@ -1,4 +1,4 @@
-![Udaan Lead Management Banner](./assets/banner.png)
+##Udaan Lead Management Banner
 
 ## Table of Contents
 
